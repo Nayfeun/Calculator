@@ -1,0 +1,54 @@
+* {
+    background-color: white;
+}
+.box {
+    width: 30%;
+    border: solid black;
+    background-color: lightgray;
+    margin-top: 30px;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.buttonNumbers {
+    font-size: 40px;
+    margin: 12px;
+    background-color: gray;
+    display: inline-flex;
+    padding: 0px 12px;
+    box-sizing: content-box;
+    width: auto;
+    border: solid black;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.operators {
+    font-size: 40px;
+    margin: 12px;
+    background-color: gray;
+    display: inline-flex;
+    padding: 0px 12px;
+    box-sizing: content-box;
+    width: auto;
+    border: solid black;
+    flex-wrap: wrap;
+    justify-content: center;
+        text-align: center;
+
+}
+
+.result {
+    border: solid black;
+    background-color: white;
+}
+
+.button {
+    background-color: white;
+    font-size: 36px;
+    margin: 2px;
+    cursor: pointer;
+}
